@@ -22,3 +22,4 @@ export default function NavBar({openForm}:Props){
         </Menu>
     )
 }
+
